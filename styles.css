@@ -40,7 +40,7 @@ padding: 10px 0;
 .photo {
     width: 88vw;
     height: 68vh;
-    background: url('../img/Ímã.jpg') center center/cover;
+    background: url('./img/Ímã.jpg') center center/cover;
     border-radius: 10px;
     display: flex;
     align-items: flex-end;
